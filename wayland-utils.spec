@@ -1,6 +1,6 @@
 Summary:        Wayland utilities
 Name:           wayland-utils
-Version:        1.0.0
+Version:        1.1.0
 Release:        1
 Group:        	System/Libraries
 License:        MIT
