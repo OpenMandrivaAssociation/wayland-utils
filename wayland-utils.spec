@@ -7,6 +7,7 @@ License:        MIT
 URL:            https://wayland.freedesktop.org/
 Source0:        https://wayland.freedesktop.org/releases/%{name}-%{version}.tar.xz
 BuildRequires:  meson
+BuildRequires:  pkgconfig(libdrm)
 BuildRequires:  pkgconfig(wayland-client)
 BuildRequires:  pkgconfig(wayland-protocols) >= 1.17
 BuildRequires:  pkgconfig(wayland-scanner)
