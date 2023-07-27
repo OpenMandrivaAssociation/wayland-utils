@@ -1,7 +1,7 @@
 Summary:        Wayland utilities
 Name:           wayland-utils
-Version:        1.1.0
-Release:        2
+Version:        1.2.0
+Release:        1
 Group:        	System/Libraries
 License:        MIT
 URL:            https://wayland.freedesktop.org/
